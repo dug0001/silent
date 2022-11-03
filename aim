@@ -1,6 +1,6 @@
 -- // Dependencies
 _G.PRED = 0.037
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/tellybellyy/zzz9737/main/tellybelly"))()
+local Aiming = loadstring(game:HttpGet("https://https://raw.githubusercontent.com/tellybellyy/ifarted/main/log"))()
 Aiming.TeamCheck(false)
 Aiming.ShowFOV = false
 Aiming.FOV = 20
